@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Practice
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arr\ key
+comment2.target=int\ linearSearch(int[],\ int)
+comment3.params=arr
+comment3.target=void\ selectSort(int[])
+comment4.params=arr
+comment4.target=void\ printArray(int[])
+comment5.params=arr
+comment5.target=void\ initializeArray(int[])
+comment6.params=arr
+comment6.target=int\ range(int[])
+comment7.params=arr
+comment7.target=int\ largest(int[])
+comment8.params=arr
+comment8.target=int\ smallest(int[])
+comment9.params=arr
+comment9.target=double\ average(int[])
+numComments=10
