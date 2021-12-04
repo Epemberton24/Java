@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Account
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Account\ here.\r\n\r\n\ @author\ (Elijah\ Pemberton)\r\n\ @version\ (11/28/18)\r\n
+comment1.params=num
+comment1.target=Account(int)
+comment2.params=amt
+comment2.target=void\ deposit(double)
+comment3.params=amt
+comment3.target=void\ withdraw(double)
+comment4.params=
+comment4.target=double\ getBalance()
+comment5.params=
+comment5.target=double\ getAccountNumber()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=
+comment7.target=void\ print()
+numComments=8
