@@ -13,24 +13,24 @@
 
 # Index
 
-ElijaHPembertonProj02 = Change converter (US currency)
+ElijahPembertonProj02 = Change converter (US currency)
 
-ElijaHPembertonProj03 = practicing Switch Statements
+ElijahPembertonProj03 = practicing Switch Statements
 
-ElijaHPembertonProj04 = Hex to decimal, Decimal to Binary, Binary To Decimal.
+ElijahPembertonProj04 = Hex to decimal, Decimal to Binary, Binary To Decimal.
 
-ElijaHPembertonProj05 = Morgage Calculator.
+ElijahPembertonProj05 = Morgage Calculator.
 
-ElijaHPembertonProj06 = practicing overload Methods.
+ElijahPembertonProj06 = practicing overload Methods.
 
-ElijaHPembertonProj07 = linear search algorithem, select sort algorithem, array intergration.
+ElijahPembertonProj07 = linear search algorithem, select sort algorithem, array intergration.
 
-ElijaHPembertonProj08 = matri with characters H and T.
+ElijahPembertonProj08 = matri with characters H and T.
 
-ElijaHPembertonProj09 = Temperature converting and comparison Demo.
+ElijahPembertonProj09 = Temperature converting and comparison Demo.
 
-ElijaHPembertonProj10 = Testing on creating a user defined class.
+ElijahPembertonProj10 = Testing on creating a user defined class.
 
-ElijaHPembertonProj11 = bank account project(orginal was lost so backup was uploaded with no commments)(creats a checking and savings account for a user)
+ElijahPembertonProj11 = bank account project(orginal was lost so backup was uploaded with no commments)(creats a checking and savings account for a user)
 
-ElijaHPembertonProj12 =  Bank Account(extension of project 11 and has the same issues with no commments)
+ElijahPembertonProj12 =  Bank Account(extension of project 11 and has the same issues with no commments)
