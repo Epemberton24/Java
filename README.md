@@ -11,7 +11,7 @@
 #At a future time I will be going back and reorganize each of the files to have proper read me as well as comments within them.
 
 
-Index:
+# Index
 
 ElijaHPembertonProj02 = Change converter (US currency)
 
